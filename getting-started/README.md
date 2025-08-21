@@ -1,0 +1,2 @@
+- `__name__ = "__main__"` → khi file đó được chạy trực tiếp.
+- `__name__ = "tên_file"` → khi file đó chỉ được import sang file khác.
